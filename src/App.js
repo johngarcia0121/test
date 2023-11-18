@@ -67,7 +67,7 @@ function App() {
 
         <div className="prio_right">
           <div className="div" style={{
-            border: "1px solid #FFFFFF",
+            border: "1px solid #FFFFFe",
             borderRadius: "0px 0px 20px 0px",
             backgroundColor: "#1D1724"
           }}>
